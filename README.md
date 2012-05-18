@@ -1,2 +1,2 @@
-course_project
+Look the course branch.
 ==============

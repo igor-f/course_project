@@ -1,0 +1,1 @@
+It`s my course project, creation of turn-based game. Language C, compiler MinGW.
